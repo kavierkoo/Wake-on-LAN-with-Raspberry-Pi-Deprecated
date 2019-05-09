@@ -76,7 +76,14 @@ This Project uses:
 
 9. You're good to go
 
-# How to use
+# Demo
+## Screenshot
+### Desktop Site
+  <img src="https://i.imgur.com/6QY5H7P.png">
+
+### Mobile Site
+  <img src="https://i.imgur.com/i7uVbjE.png">
+
 ## User Type:
 ### Admin:
 * Trigger Wake on LAN : Click a Button to Wake On LAN
@@ -95,6 +102,7 @@ This Project uses:
 * Trigger Wake on LAN : Click a Button to Wake On LAN
 * Change Password : Change your own password
 * Logout
+
 
 ## Author
 Kavier Koo 
