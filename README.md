@@ -79,10 +79,10 @@ This Project uses:
 
 # Demo
 ## Screenshot
-### Desktop Site
+### Mobile Site
   <img src="https://i.imgur.com/6QY5H7P.png">
 
-### Mobile Site
+### Desktop Site
   <img src="https://i.imgur.com/i7uVbjE.png">
 
 ## User Type:
