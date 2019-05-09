@@ -16,7 +16,8 @@ This guide will not cover installation of OS & packages, hardening of OS, and Ne
 As I am running my Raspberry Pi Zero W on Raspbian, hence there will be minimal security enabled.
 Please harden the OS before publishing it to production as it is extremely vulnerable to any sorts of attack.
 
-This only work within Local Area Network (LAN).
+User are able to access from anywhere with Internet available,
+To wake **devices within same Local Area Network (LAN) of Raspberry Pi** due to the limitation of Wake on LAN.
 
 ### Prerequisites
 This Project uses: 
