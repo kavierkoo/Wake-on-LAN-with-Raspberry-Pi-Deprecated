@@ -32,44 +32,45 @@ This Project uses:
 
 1. Download Wake-on-LAN-with-Raspberry-Pi
 
-```
-git clone https://github.com/kavierkoo/Wake-on-LAN-with-Raspberry-Pi.git
-```
+  ```
+  git clone https://github.com/kavierkoo/Wake-on-LAN-with-Raspberry-Pi.git
+  ```
 
 2. Copy .env.example to .env
-Linux
-```
-cp .env.example .env
-```
 
-Windows
-```
-copy .env.example .env
-```
+  Linux
+  ```
+  cp .env.example .env
+  ```
+
+  Windows
+  ```
+  copy .env.example .env
+  ```
 
 3. Change information in .env file 
 
 4. Grant permission (Feel free to change to desire permission)
-```
-sudo chown www-data:www-data /path/to/directory
-sudo chmod -R 775 /path/to/your/project
-```
+  ```
+  sudo chown www-data:www-data /path/to/directory
+  sudo chmod -R 775 /path/to/your/project
+  ```
 
 5. Generate key file
-```
-php artisan key:generate
-```
+  ```
+  php artisan key:generate
+  ```
 
 6. Generate database tables
-```
-php artisan migrate
-```
+  ```
+  php artisan migrate
+  ```
 
 7. Apache directory point to public folder
-Example:
-```
-/var/www/html/xxx/public
-```
+  Example:
+  ```
+  /var/www/html/xxx/public
+  ```
 
 8. Restart apache service
 
