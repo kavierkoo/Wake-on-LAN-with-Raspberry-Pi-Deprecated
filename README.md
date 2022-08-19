@@ -2,6 +2,11 @@
 
 Wake On LAN with Raspberry Pi
 
+## Deprecated
+This repository is deprecated.
+Instead of using Wake-on-LAN function to wake PCs, I am using PCIe Wifi Remote Control On/Off switch for my PCs. 
+There're plenty of brands out there support it with a relatively cheap cost (Tuya / eWeLink) and is able to directly integrate with IoT Platforms like Home Assitant / Alexa.
+
 ## Objective
 As it is pretty hard to find a way to Wake on LAN to my devices within home network, I decided to build one myself.
 
